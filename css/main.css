@@ -2,3 +2,13 @@
     margin: 0px;
     padding: 0px;
 }
+#head{
+    height: 100px;
+}
+#head ul{
+    list-style-type: none;
+}
+#head ul li{
+    width: 70px;
+    float: left;
+}
