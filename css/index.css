@@ -2,6 +2,10 @@
     margin: 0px;
     padding: 0px;
 }
+div{
+    border:solid 2px black;
+    /* div添加黑色边框 */
+}
 #head{
     height: 100px;
 }
